@@ -1,1 +1,1 @@
-# Magiczny-chleb-bananowy
+# Magiczny Chleb Bananowy
