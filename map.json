@@ -1,0 +1,18 @@
+{
+    "a1":
+    {
+        "nazwa" : "Lokacja Początkowa",
+        "opis" : "Tutaj znajduje się początek gry.",
+        "" : "",
+        "w" : "",
+        "e" : "",
+        "n" : "",
+        "s" : "",
+        "przejscia" : ["west", "south", "north", "east"]
+    },
+    "a2":
+    {
+        "nazwa" : "siemanko",
+        "opis" : "pawlacz"
+    }
+}
